@@ -1,0 +1,1 @@
+# Group-date-in-the-PivotTable-into-Months-and-calculate-the-average-sales-per-month
